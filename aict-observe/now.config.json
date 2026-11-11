@@ -1,0 +1,15 @@
+{
+  "scope": "x_assro_aict_obser",
+  "scopeId": "4258fa8a60c94a49af0550188e09baba",
+  "name": "aict-observe",
+  "metadataDir": "src/plugin-xmls",
+  "appOutputDir": "dist-metadata/app",
+  "packageSourceCodeOnInstance": true,
+  "staticContent": {
+    "assets": {
+      "./public/**": {
+        "publicPath": "[$config.aiux.basename]/public"
+      }
+    }
+  }
+}

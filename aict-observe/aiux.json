@@ -1,0 +1,11 @@
+{
+  "name": "aict-observe",
+  "basename": "aict-observe",
+  "landing": "/home",
+  "development": {
+    "token": ""
+  },
+  "build": {
+    "exclude": ["**/*.test.js", "**/test/**"]
+  }
+}
